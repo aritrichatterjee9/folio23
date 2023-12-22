@@ -37,7 +37,7 @@ const Footer = () => {
                         </a>
                     </li>
                 </ul>
-                <p className='text-center fs-14 text-white op-07 fw-3 ls-1 reserved-text'>All Rights Reserved &copy; 2022</p>
+                <p className='text-center fs-14 text-white op-07 fw-3 ls-1 reserved-text'>All Rights Reserved &copy; 2023</p>
             </div>
         </div>
     </div>
