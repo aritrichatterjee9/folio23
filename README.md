@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Deployed in https://folio23-zeta.vercel.app/
+![image](https://github.com/aritrichatterjee9/folio23/assets/73156770/d46aa1fe-1856-42e7-898d-a7824ccfb9d9)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
